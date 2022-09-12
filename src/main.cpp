@@ -1,6 +1,7 @@
 #include <Arduino.h>
-// I, Aileen Velasco with student number 000805966, verify that I have not copied
-
+// I Aileen Velasco, 000805966 certify that this material is my original work. 
+//No other person's work has been used without due acknowledgement. 
+//I have not made my work available to anyone else.
 
 unsigned long myTime;
 
